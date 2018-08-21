@@ -7,7 +7,7 @@ It'll use docker-compose to build and run your app inside a docker container wit
 
 # The names
 The names of the sub-modules are just a reference to a movie from far, far away...
-
+```
 .    .        .      .             . .     .        .          .          .
          .                 .                    .                .
   .               A long time ago in a galaxy far, far away...   .
@@ -36,3 +36,4 @@ The names of the sub-modules are just a reference to a movie from far, far away.
                                .                                        .
      .                           .         .               .                 .
                 .                                   .            .
+```
